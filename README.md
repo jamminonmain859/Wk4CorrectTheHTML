@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 
 Follow these steps to fork and clone the repository:
 
-1. Open your terminal or Git Bash.
+. Open your terminal or Git Bash.
 2. Navigate to the directory where you want to store the project.
 3. Fork the repository.
 4. Clone the forked repository to edit on your local computer.
